@@ -10,7 +10,7 @@ __author__ = 'John J Kenny'
 __version__ = '1.0.0'
 
 
-class Color-Fi():
+class ColorFi():
     """Color and formatting tool for string output."""
     def __init__(self):
         # Available Colors
