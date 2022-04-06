@@ -7,7 +7,7 @@ information so it does not go unnoticed.
 
 
 __author__ = 'John J Kenny'
-__version__ = '1.0.1'
+__version__ = '1.0.2'
 
 
 class ColorFi():
