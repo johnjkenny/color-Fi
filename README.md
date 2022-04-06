@@ -36,7 +36,7 @@ Formatting Options: reset, default, bold, dim, italic, underline, double-underli
 color_fi.display_all_formatting_options()
 ```
 Output as a gif:<br>
-![Formatting Samples](/assets/view_options/ColorFi.gif)
+![Formatting Samples](/assets/view_options/colorFi.gif)
 
 ### View selected formatting options on console
 ``` python
